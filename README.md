@@ -64,3 +64,13 @@ credit-card-governance/
 │── sql/
 │── README.md
 ```
+## Screenshots
+
+### Metadata Catalog
+![Metadata](screenshots/metadata_catalog.png)
+
+### Lineage Tracker
+![Lineage](screenshots/lineage_tracker.png)
+
+### Quality Dashboard
+![Dashboard](screenshots/quality_dashboard.png)
